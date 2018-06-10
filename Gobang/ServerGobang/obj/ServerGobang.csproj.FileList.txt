@@ -1,0 +1,10 @@
+bin\Debug\ServerGobang.exe
+bin\Debug\ServerGobang.pdb
+bin\Debug\GobangClass.dll
+bin\Debug\GobangClass.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ServerGobang.Properties.Resources.resources
+obj\Debug\ServerGobang.csproj.GenerateResource.Cache
+obj\Debug\ServerGobang.exe
+obj\Debug\ServerGobang.pdb
+obj\Debug\ServerGobang.Frm_Server.resources

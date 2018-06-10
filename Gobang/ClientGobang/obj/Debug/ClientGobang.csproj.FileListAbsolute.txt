@@ -1,0 +1,128 @@
+E:\源码\C#程序开发典型模块大全（第二版）\mr\22\ClientGobang\ClientGobang\obj\Debug\ClientGobang.exe
+E:\源码\C#程序开发典型模块大全（第二版）\mr\22\ClientGobang\ClientGobang\obj\Debug\ClientGobang.pdb
+E:\源码\C#程序开发典型模块大全（第二版）\mr\22\ClientGobang\ClientGobang\bin\Debug\ClientGobang.exe
+E:\源码\C#程序开发典型模块大全（第二版）\mr\22\ClientGobang\ClientGobang\bin\Debug\ClientGobang.pdb
+E:\源码\C#程序开发典型模块大全（第二版）\mr\22\ClientGobang\ClientGobang\bin\Debug\GobangClass.dll
+E:\源码\C#程序开发典型模块大全（第二版）\mr\22\ClientGobang\ClientGobang\bin\Debug\GobangClass.pdb
+E:\源码\C#程序开发典型模块大全（第二版）\mr\22\ClientGobang\ClientGobang\obj\Debug\ResolveAssemblyReference.cache
+E:\源码\C#程序开发典型模块大全（第二版）\mr\22\ClientGobang\ClientGobang\obj\Debug\ClientGobang.Frm_Chessboard.resources
+E:\源码\C#程序开发典型模块大全（第二版）\mr\22\ClientGobang\ClientGobang\obj\Debug\ClientGobang.Frm_Hall.resources
+E:\源码\C#程序开发典型模块大全（第二版）\mr\22\ClientGobang\ClientGobang\obj\Debug\ClientGobang.F_Logon.resources
+E:\源码\C#程序开发典型模块大全（第二版）\mr\22\ClientGobang\ClientGobang\obj\Debug\ClientGobang.F_SerSetup.resources
+E:\源码\C#程序开发典型模块大全（第二版）\mr\22\ClientGobang\ClientGobang\obj\Debug\ClientGobang.Properties.Resources.resources
+E:\源码\C#程序开发典型模块大全（第二版）\mr\22\ClientGobang\ClientGobang\obj\Debug\ClientGobang.csproj.GenerateResource.Cache
+D:\论坛问题程序回复\22\Gobang\ClientGobang\bin\Debug\ClientGobang.exe
+D:\论坛问题程序回复\22\Gobang\ClientGobang\bin\Debug\ClientGobang.pdb
+D:\论坛问题程序回复\22\Gobang\ClientGobang\obj\Debug\ClientGobang.Frm_Chessboard.resources
+D:\论坛问题程序回复\22\Gobang\ClientGobang\obj\Debug\ClientGobang.Frm_Hall.resources
+D:\论坛问题程序回复\22\Gobang\ClientGobang\obj\Debug\ClientGobang.F_Logon.resources
+D:\论坛问题程序回复\22\Gobang\ClientGobang\obj\Debug\ClientGobang.F_SerSetup.resources
+D:\论坛问题程序回复\22\Gobang\ClientGobang\obj\Debug\ClientGobang.Properties.Resources.resources
+D:\论坛问题程序回复\22\Gobang\ClientGobang\obj\Debug\ClientGobang.csproj.GenerateResource.Cache
+D:\论坛问题程序回复\22\Gobang\ClientGobang\obj\Debug\ClientGobang.exe
+D:\论坛问题程序回复\22\Gobang\ClientGobang\obj\Debug\ClientGobang.pdb
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\01 五子棋游戏\Gobang\ClientGobang\bin\Debug\ClientGobang.exe
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\01 五子棋游戏\Gobang\ClientGobang\bin\Debug\ClientGobang.pdb
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\01 五子棋游戏\Gobang\ClientGobang\bin\Debug\GobangClass.dll
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\01 五子棋游戏\Gobang\ClientGobang\bin\Debug\GobangClass.pdb
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\01 五子棋游戏\Gobang\ClientGobang\obj\Debug\ClientGobang.csprojResolveAssemblyReference.cache
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\01 五子棋游戏\Gobang\ClientGobang\obj\Debug\ClientGobang.Frm_Chessboard.resources
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\01 五子棋游戏\Gobang\ClientGobang\obj\Debug\ClientGobang.Frm_Hall.resources
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\01 五子棋游戏\Gobang\ClientGobang\obj\Debug\ClientGobang.F_Logon.resources
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\01 五子棋游戏\Gobang\ClientGobang\obj\Debug\ClientGobang.F_SerSetup.resources
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\01 五子棋游戏\Gobang\ClientGobang\obj\Debug\ClientGobang.Properties.Resources.resources
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\01 五子棋游戏\Gobang\ClientGobang\obj\Debug\ClientGobang.csproj.GenerateResource.Cache
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\01 五子棋游戏\Gobang\ClientGobang\obj\Debug\ClientGobang.exe
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\01 五子棋游戏\Gobang\ClientGobang\obj\Debug\ClientGobang.pdb
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\01 五子棋游戏\Gobang\ClientGobang\obj\Debug\ClientGobang.exe
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\01 五子棋游戏\Gobang\ClientGobang\obj\Debug\ClientGobang.pdb
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\01 五子棋游戏\Gobang\ClientGobang\obj\Debug\ClientGobang.Frm_Chessboard.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\01 五子棋游戏\Gobang\ClientGobang\obj\Debug\ClientGobang.Frm_Hall.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\01 五子棋游戏\Gobang\ClientGobang\obj\Debug\ClientGobang.F_Logon.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\01 五子棋游戏\Gobang\ClientGobang\obj\Debug\ClientGobang.F_SerSetup.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\01 五子棋游戏\Gobang\ClientGobang\obj\Debug\ClientGobang.Properties.Resources.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\01 五子棋游戏\Gobang\ClientGobang\obj\Debug\ClientGobang.csproj.GenerateResource.Cache
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\01 五子棋游戏\Gobang\ClientGobang\bin\Debug\ClientGobang.exe
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\01 五子棋游戏\Gobang\ClientGobang\bin\Debug\ClientGobang.pdb
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\01 五子棋游戏\Gobang\ClientGobang\bin\Debug\GobangClass.dll
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\01 五子棋游戏\Gobang\ClientGobang\bin\Debug\GobangClass.pdb
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\01 五子棋游戏\Gobang\ClientGobang\obj\Debug\ClientGobang.csprojResolveAssemblyReference.cache
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\05 五子棋游戏大厅\Gobang\ClientGobang\obj\Debug\ClientGobang.exe
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\05 五子棋游戏大厅\Gobang\ClientGobang\obj\Debug\ClientGobang.pdb
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\05 五子棋游戏大厅\Gobang\ClientGobang\bin\Debug\ClientGobang.exe
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\05 五子棋游戏大厅\Gobang\ClientGobang\bin\Debug\ClientGobang.pdb
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\05 五子棋游戏大厅\Gobang\ClientGobang\bin\Debug\GobangClass.dll
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\05 五子棋游戏大厅\Gobang\ClientGobang\bin\Debug\GobangClass.pdb
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\05 五子棋游戏大厅\Gobang\ClientGobang\obj\Debug\ClientGobang.csprojResolveAssemblyReference.cache
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\05 五子棋游戏大厅\Gobang\ClientGobang\obj\Debug\ClientGobang.Frm_Chessboard.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\05 五子棋游戏大厅\Gobang\ClientGobang\obj\Debug\ClientGobang.Frm_Hall.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\05 五子棋游戏大厅\Gobang\ClientGobang\obj\Debug\ClientGobang.F_Logon.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\05 五子棋游戏大厅\Gobang\ClientGobang\obj\Debug\ClientGobang.F_SerSetup.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\05 五子棋游戏大厅\Gobang\ClientGobang\obj\Debug\ClientGobang.Properties.Resources.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\05 五子棋游戏大厅\Gobang\ClientGobang\obj\Debug\ClientGobang.csproj.GenerateResource.Cache
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\05 五子棋游戏大厅\Gobang\ClientGobang\obj\Debug\ClientGobang.exe
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\05 五子棋游戏大厅\Gobang\ClientGobang\obj\Debug\ClientGobang.pdb
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\05 五子棋游戏大厅\Gobang\ClientGobang\obj\Debug\ClientGobang.csprojResolveAssemblyReference.cache
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\05 五子棋游戏大厅\Gobang\ClientGobang\obj\Debug\ClientGobang.Frm_Chessboard.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\05 五子棋游戏大厅\Gobang\ClientGobang\obj\Debug\ClientGobang.Frm_Hall.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\05 五子棋游戏大厅\Gobang\ClientGobang\obj\Debug\ClientGobang.F_Logon.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\05 五子棋游戏大厅\Gobang\ClientGobang\obj\Debug\ClientGobang.F_SerSetup.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\05 五子棋游戏大厅\Gobang\ClientGobang\obj\Debug\ClientGobang.Properties.Resources.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\05 五子棋游戏大厅\Gobang\ClientGobang\obj\Debug\ClientGobang.csproj.GenerateResource.Cache
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\05 五子棋游戏大厅\Gobang\ClientGobang\bin\Debug\ClientGobang.exe
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\05 五子棋游戏大厅\Gobang\ClientGobang\bin\Debug\ClientGobang.pdb
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\05 五子棋游戏大厅\Gobang\ClientGobang\bin\Debug\GobangClass.dll
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\05 五子棋游戏大厅\Gobang\ClientGobang\bin\Debug\GobangClass.pdb
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\05 五子棋游戏大厅\Project\Gobang\ClientGobang\obj\Debug\ClientGobang.exe
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\05 五子棋游戏大厅\Project\Gobang\ClientGobang\obj\Debug\ClientGobang.pdb
+C:\Users\小科\Desktop\Gobang\ClientGobang\obj\Debug\ClientGobang.exe
+C:\Users\小科\Desktop\Gobang\ClientGobang\obj\Debug\ClientGobang.pdb
+C:\Users\小科\Desktop\Gobang\ClientGobang\bin\Debug\ClientGobang.exe
+C:\Users\小科\Desktop\Gobang\ClientGobang\bin\Debug\ClientGobang.pdb
+C:\Users\小科\Desktop\Gobang\ClientGobang\bin\Debug\GobangClass.dll
+C:\Users\小科\Desktop\Gobang\ClientGobang\bin\Debug\GobangClass.pdb
+C:\Users\小科\Desktop\Gobang\ClientGobang\obj\Debug\ClientGobang.csprojResolveAssemblyReference.cache
+C:\Users\小科\Desktop\Gobang\ClientGobang\obj\Debug\ClientGobang.Frm_Chessboard.resources
+C:\Users\小科\Desktop\Gobang\ClientGobang\obj\Debug\ClientGobang.Frm_Hall.resources
+C:\Users\小科\Desktop\Gobang\ClientGobang\obj\Debug\ClientGobang.F_Logon.resources
+C:\Users\小科\Desktop\Gobang\ClientGobang\obj\Debug\ClientGobang.F_SerSetup.resources
+C:\Users\小科\Desktop\Gobang\ClientGobang\obj\Debug\ClientGobang.Properties.Resources.resources
+C:\Users\小科\Desktop\Gobang\ClientGobang\obj\Debug\ClientGobang.csproj.GenerateResource.Cache
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\05 五子棋游戏大厅\Project\Gobang\ClientGobang\bin\Debug\ClientGobang.exe
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\05 五子棋游戏大厅\Project\Gobang\ClientGobang\bin\Debug\ClientGobang.pdb
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\05 五子棋游戏大厅\Project\Gobang\ClientGobang\bin\Debug\GobangClass.dll
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\05 五子棋游戏大厅\Project\Gobang\ClientGobang\bin\Debug\GobangClass.pdb
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\05 五子棋游戏大厅\Project\Gobang\ClientGobang\obj\Debug\ClientGobang.csprojResolveAssemblyReference.cache
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\05 五子棋游戏大厅\Project\Gobang\ClientGobang\obj\Debug\ClientGobang.Frm_Chessboard.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\05 五子棋游戏大厅\Project\Gobang\ClientGobang\obj\Debug\ClientGobang.Frm_Hall.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\05 五子棋游戏大厅\Project\Gobang\ClientGobang\obj\Debug\ClientGobang.F_Logon.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\05 五子棋游戏大厅\Project\Gobang\ClientGobang\obj\Debug\ClientGobang.F_SerSetup.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\05 五子棋游戏大厅\Project\Gobang\ClientGobang\obj\Debug\ClientGobang.Properties.Resources.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\05 五子棋游戏大厅\Project\Gobang\ClientGobang\obj\Debug\ClientGobang.csproj.GenerateResource.Cache
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\Code\05\Project\Gobang\ClientGobang\obj\Debug\ClientGobang.exe
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\Code\05\Project\Gobang\ClientGobang\obj\Debug\ClientGobang.pdb
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\Code\05\Project\Gobang\ClientGobang\bin\Debug\ClientGobang.exe
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\Code\05\Project\Gobang\ClientGobang\bin\Debug\ClientGobang.pdb
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\Code\05\Project\Gobang\ClientGobang\bin\Debug\GobangClass.dll
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\Code\05\Project\Gobang\ClientGobang\bin\Debug\GobangClass.pdb
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\Code\05\Project\Gobang\ClientGobang\obj\Debug\ClientGobang.csprojResolveAssemblyReference.cache
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\Code\05\Project\Gobang\ClientGobang\obj\Debug\ClientGobang.Frm_Chessboard.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\Code\05\Project\Gobang\ClientGobang\obj\Debug\ClientGobang.Frm_Hall.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\Code\05\Project\Gobang\ClientGobang\obj\Debug\ClientGobang.F_Logon.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\Code\05\Project\Gobang\ClientGobang\obj\Debug\ClientGobang.F_SerSetup.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\Code\05\Project\Gobang\ClientGobang\obj\Debug\ClientGobang.Properties.Resources.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\Code\05\Project\Gobang\ClientGobang\obj\Debug\ClientGobang.csproj.GenerateResource.Cache
+D:\C#\Code\05\Project\Gobang\ClientGobang\obj\Debug\ClientGobang.exe
+D:\C#\Code\05\Project\Gobang\ClientGobang\obj\Debug\ClientGobang.pdb
+D:\C#\Code\05\Project\Gobang\ClientGobang\bin\Debug\ClientGobang.exe
+D:\C#\Code\05\Project\Gobang\ClientGobang\bin\Debug\ClientGobang.pdb
+D:\C#\Code\05\Project\Gobang\ClientGobang\bin\Debug\GobangClass.dll
+D:\C#\Code\05\Project\Gobang\ClientGobang\bin\Debug\GobangClass.pdb
+D:\C#\Code\05\Project\Gobang\ClientGobang\obj\Debug\ClientGobang.csprojResolveAssemblyReference.cache
+D:\C#\Code\05\Project\Gobang\ClientGobang\obj\Debug\ClientGobang.Form1.resources
+D:\C#\Code\05\Project\Gobang\ClientGobang\obj\Debug\ClientGobang.Frm_Chessboard.resources
+D:\C#\Code\05\Project\Gobang\ClientGobang\obj\Debug\ClientGobang.Frm_Hall.resources
+D:\C#\Code\05\Project\Gobang\ClientGobang\obj\Debug\ClientGobang.F_Logon.resources
+D:\C#\Code\05\Project\Gobang\ClientGobang\obj\Debug\ClientGobang.F_SerSetup.resources
+D:\C#\Code\05\Project\Gobang\ClientGobang\obj\Debug\ClientGobang.Properties.Resources.resources
+D:\C#\Code\05\Project\Gobang\ClientGobang\obj\Debug\ClientGobang.csproj.GenerateResource.Cache

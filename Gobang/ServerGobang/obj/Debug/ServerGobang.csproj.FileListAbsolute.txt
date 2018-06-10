@@ -1,0 +1,67 @@
+E:\源码\C#程序开发典型模块大全（第二版）\mr\22\ServerGobang\ServerGobang\obj\Debug\ServerGobang.exe
+E:\源码\C#程序开发典型模块大全（第二版）\mr\22\ServerGobang\ServerGobang\obj\Debug\ServerGobang.pdb
+E:\源码\C#程序开发典型模块大全（第二版）\mr\22\ServerGobang\ServerGobang\bin\Debug\ServerGobang.exe
+E:\源码\C#程序开发典型模块大全（第二版）\mr\22\ServerGobang\ServerGobang\bin\Debug\ServerGobang.pdb
+E:\源码\C#程序开发典型模块大全（第二版）\mr\22\ServerGobang\ServerGobang\bin\Debug\GobangClass.dll
+E:\源码\C#程序开发典型模块大全（第二版）\mr\22\ServerGobang\ServerGobang\bin\Debug\GobangClass.pdb
+E:\源码\C#程序开发典型模块大全（第二版）\mr\22\ServerGobang\ServerGobang\obj\Debug\ResolveAssemblyReference.cache
+E:\源码\C#程序开发典型模块大全（第二版）\mr\22\ServerGobang\ServerGobang\obj\Debug\ServerGobang.Frm_Server.resources
+E:\源码\C#程序开发典型模块大全（第二版）\mr\22\ServerGobang\ServerGobang\obj\Debug\ServerGobang.Properties.Resources.resources
+E:\源码\C#程序开发典型模块大全（第二版）\mr\22\ServerGobang\ServerGobang\obj\Debug\ServerGobang.csproj.GenerateResource.Cache
+D:\论坛问题程序回复\22\Gobang\ServerGobang\bin\Debug\ServerGobang.exe
+D:\论坛问题程序回复\22\Gobang\ServerGobang\bin\Debug\ServerGobang.pdb
+D:\论坛问题程序回复\22\Gobang\ServerGobang\obj\Debug\ServerGobang.Frm_Server.resources
+D:\论坛问题程序回复\22\Gobang\ServerGobang\obj\Debug\ServerGobang.Properties.Resources.resources
+D:\论坛问题程序回复\22\Gobang\ServerGobang\obj\Debug\ServerGobang.csproj.GenerateResource.Cache
+D:\论坛问题程序回复\22\Gobang\ServerGobang\obj\Debug\ServerGobang.exe
+D:\论坛问题程序回复\22\Gobang\ServerGobang\obj\Debug\ServerGobang.pdb
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\01 五子棋游戏\Gobang\ServerGobang\bin\Debug\ServerGobang.exe
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\01 五子棋游戏\Gobang\ServerGobang\bin\Debug\ServerGobang.pdb
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\01 五子棋游戏\Gobang\ServerGobang\bin\Debug\GobangClass.dll
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\01 五子棋游戏\Gobang\ServerGobang\bin\Debug\GobangClass.pdb
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\01 五子棋游戏\Gobang\ServerGobang\obj\Debug\ServerGobang.csprojResolveAssemblyReference.cache
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\01 五子棋游戏\Gobang\ServerGobang\obj\Debug\ServerGobang.Frm_Server.resources
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\01 五子棋游戏\Gobang\ServerGobang\obj\Debug\ServerGobang.Properties.Resources.resources
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\01 五子棋游戏\Gobang\ServerGobang\obj\Debug\ServerGobang.csproj.GenerateResource.Cache
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\01 五子棋游戏\Gobang\ServerGobang\obj\Debug\ServerGobang.exe
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\01 五子棋游戏\Gobang\ServerGobang\obj\Debug\ServerGobang.pdb
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\01 五子棋游戏\Gobang\ServerGobang\bin\Debug\ServerGobang.exe
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\01 五子棋游戏\Gobang\ServerGobang\bin\Debug\ServerGobang.pdb
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\01 五子棋游戏\Gobang\ServerGobang\bin\Debug\GobangClass.dll
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\01 五子棋游戏\Gobang\ServerGobang\bin\Debug\GobangClass.pdb
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\01 五子棋游戏\Gobang\ServerGobang\obj\Debug\ServerGobang.csprojResolveAssemblyReference.cache
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\01 五子棋游戏\Gobang\ServerGobang\obj\Debug\ServerGobang.Frm_Server.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\01 五子棋游戏\Gobang\ServerGobang\obj\Debug\ServerGobang.Properties.Resources.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\01 五子棋游戏\Gobang\ServerGobang\obj\Debug\ServerGobang.csproj.GenerateResource.Cache
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\01 五子棋游戏\Gobang\ServerGobang\obj\Debug\ServerGobang.exe
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\01 五子棋游戏\Gobang\ServerGobang\obj\Debug\ServerGobang.pdb
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\05 五子棋游戏大厅\Gobang\ServerGobang\bin\Debug\ServerGobang.exe
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\05 五子棋游戏大厅\Gobang\ServerGobang\bin\Debug\ServerGobang.pdb
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\05 五子棋游戏大厅\Gobang\ServerGobang\bin\Debug\GobangClass.dll
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\05 五子棋游戏大厅\Gobang\ServerGobang\bin\Debug\GobangClass.pdb
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\05 五子棋游戏大厅\Gobang\ServerGobang\obj\Debug\ServerGobang.csprojResolveAssemblyReference.cache
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\05 五子棋游戏大厅\Gobang\ServerGobang\obj\Debug\ServerGobang.Frm_Server.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\05 五子棋游戏大厅\Gobang\ServerGobang\obj\Debug\ServerGobang.Properties.Resources.resources
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\05 五子棋游戏大厅\Gobang\ServerGobang\obj\Debug\ServerGobang.csproj.GenerateResource.Cache
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\05 五子棋游戏大厅\Gobang\ServerGobang\obj\Debug\ServerGobang.exe
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\05 五子棋游戏大厅\Gobang\ServerGobang\obj\Debug\ServerGobang.pdb
+C:\Users\小科\Desktop\Gobang\ServerGobang\bin\Debug\ServerGobang.exe
+C:\Users\小科\Desktop\Gobang\ServerGobang\bin\Debug\ServerGobang.pdb
+C:\Users\小科\Desktop\Gobang\ServerGobang\bin\Debug\GobangClass.dll
+C:\Users\小科\Desktop\Gobang\ServerGobang\bin\Debug\GobangClass.pdb
+C:\Users\小科\Desktop\Gobang\ServerGobang\obj\Debug\ServerGobang.csprojResolveAssemblyReference.cache
+C:\Users\小科\Desktop\Gobang\ServerGobang\obj\Debug\ServerGobang.Frm_Server.resources
+C:\Users\小科\Desktop\Gobang\ServerGobang\obj\Debug\ServerGobang.Properties.Resources.resources
+C:\Users\小科\Desktop\Gobang\ServerGobang\obj\Debug\ServerGobang.csproj.GenerateResource.Cache
+C:\Users\小科\Desktop\Gobang\ServerGobang\obj\Debug\ServerGobang.exe
+C:\Users\小科\Desktop\Gobang\ServerGobang\obj\Debug\ServerGobang.pdb
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\Code\05\Project\Gobang\ServerGobang\obj\Debug\ServerGobang.exe
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\Code\05\Project\Gobang\ServerGobang\obj\Debug\ServerGobang.pdb
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\Code\05\Project\Gobang\ServerGobang\bin\Debug\ServerGobang.exe
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\Code\05\Project\Gobang\ServerGobang\bin\Debug\ServerGobang.pdb
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\Code\05\Project\Gobang\ServerGobang\bin\Debug\GobangClass.dll
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\Code\05\Project\Gobang\ServerGobang\bin\Debug\GobangClass.pdb
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\Code\05\Project\Gobang\ServerGobang\obj\Debug\ServerGobang.csprojResolveAssemblyReference.cache
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\Code\05\Project\Gobang\ServerGobang\obj\Debug\ServerGobang.Frm_Server.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\Code\05\Project\Gobang\ServerGobang\obj\Debug\ServerGobang.Properties.Resources.resources
+G:\SVN\mingrisoft_developer\实例入门\C#\源码\Code\05\Project\Gobang\ServerGobang\obj\Debug\ServerGobang.csproj.GenerateResource.Cache

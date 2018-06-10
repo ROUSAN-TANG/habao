@@ -1,0 +1,21 @@
+E:\源码\C#程序开发典型模块大全（第二版）\mr\22\GobangClass\GobangClass\bin\Debug\GobangClass.dll
+E:\源码\C#程序开发典型模块大全（第二版）\mr\22\GobangClass\GobangClass\bin\Debug\GobangClass.pdb
+E:\源码\C#程序开发典型模块大全（第二版）\mr\22\GobangClass\GobangClass\obj\Debug\ResolveAssemblyReference.cache
+E:\源码\C#程序开发典型模块大全（第二版）\mr\22\GobangClass\GobangClass\obj\Debug\GobangClass.dll
+E:\源码\C#程序开发典型模块大全（第二版）\mr\22\GobangClass\GobangClass\obj\Debug\GobangClass.pdb
+D:\论坛问题程序回复\22\Gobang\GobangClass\bin\Debug\GobangClass.dll
+D:\论坛问题程序回复\22\Gobang\GobangClass\bin\Debug\GobangClass.pdb
+D:\论坛问题程序回复\22\Gobang\GobangClass\obj\Debug\GobangClass.dll
+D:\论坛问题程序回复\22\Gobang\GobangClass\obj\Debug\GobangClass.pdb
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\01 五子棋游戏\Gobang\GobangClass\bin\Debug\GobangClass.dll
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\01 五子棋游戏\Gobang\GobangClass\bin\Debug\GobangClass.pdb
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\01 五子棋游戏\Gobang\GobangClass\obj\Debug\GobangClass.dll
+F:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\01 五子棋游戏\Gobang\GobangClass\obj\Debug\GobangClass.pdb
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\01 五子棋游戏\Gobang\GobangClass\bin\Debug\GobangClass.dll
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\01 五子棋游戏\Gobang\GobangClass\bin\Debug\GobangClass.pdb
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\01 五子棋游戏\Gobang\GobangClass\obj\Debug\GobangClass.dll
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\01 五子棋游戏\Gobang\GobangClass\obj\Debug\GobangClass.pdb
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\05 五子棋游戏大厅\Gobang\GobangClass\bin\Debug\GobangClass.dll
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\05 五子棋游戏大厅\Gobang\GobangClass\bin\Debug\GobangClass.pdb
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\05 五子棋游戏大厅\Gobang\GobangClass\obj\Debug\GobangClass.dll
+G:\SVN\mingrisoft_developer\项目开发实例入门\C#\源码\05 五子棋游戏大厅\Gobang\GobangClass\obj\Debug\GobangClass.pdb

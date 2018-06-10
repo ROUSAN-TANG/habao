@@ -1,0 +1,13 @@
+bin\Debug\ClientGobang.exe
+bin\Debug\ClientGobang.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ClientGobang.Properties.Resources.resources
+obj\Debug\ClientGobang.csproj.GenerateResource.Cache
+obj\Debug\ClientGobang.exe
+obj\Debug\ClientGobang.pdb
+bin\Debug\GobangClass.dll
+bin\Debug\GobangClass.pdb
+obj\Debug\ClientGobang.F_Logon.resources
+obj\Debug\ClientGobang.F_SerSetup.resources
+obj\Debug\ClientGobang.Frm_Hall.resources
+obj\Debug\ClientGobang.Frm_Chessboard.resources
